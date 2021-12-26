@@ -1,0 +1,177 @@
+
+
+.heading-section{
+    text-align: center;
+    padding-top: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    padding-top: 2rem;
+    max-width: 100%;
+    text-align: center;
+}
+ 
+.nav-link{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+
+.Navigation-bar{
+    text-align: center;
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+
+.background-image{
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elitehavens.com%2Fwedding.aspx&psig=AOvVaw2849MDHl2TRpwwvg_PQoKh&ust=1637657133812000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjmqbTKq_QCFQAAAAAdAAAAABAJ');
+}
+.img-text{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+    text-align: center;
+    display: block;
+    /* padding-top: 2rem; */
+}
+.image1{
+    /* max-width: 90%;
+    max-height: 90%; */
+    padding-left: 2rem;
+    float: left;
+    
+}
+
+hr{
+    border: #050505 6rem;
+    border-bottom: 6rem;
+    width: 50%;
+    margin: 2rem auto;
+}S
+
+
+/* hr{
+    background-color: black;
+     border-top : 1px dashed black;
+     width: 50%;
+     margin: 1rem auto;  
+} */
+/* hr { 
+    margin: ;
+    width: 3rem;
+    background-color: black; 
+    height: 10rem; 
+    border: 0; 
+} */
+
+
+
+.our-story{
+    margin: auto;
+    max-width: 90%;
+    max-height: 90%;
+}
+.venue-para{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.Ceremony-name-vd{
+    font-family: 'Indie Flower', cursive;
+}
+.btn-outline-dark{
+     padding-left: 2rem;
+     padding-right: 2rem;
+}
+
+@media only screen and (min-width:1000px) {
+    .img-text{
+        padding-top: 13rem;
+    }
+    .main-page{
+        padding-bottom: 2rem;
+    }
+    .Venue, .date-time{
+        margin: 2rem 2rem;
+    }
+
+    .image3{
+        max-width: 53%;
+        max-height: 50%;
+    }
+     
+    .Baarat{
+        width: 56rem;
+        height: 35rem;
+    }
+    .navbar-brand{
+        font-family: 'Aclonica', sans-serif;
+        font-size: 3rem;
+    }
+    .nav-link{
+        font-size: 2rem;
+    }
+    .Ceremony-name{
+        font-family: 'Indie Flower', cursive;
+        font-size: 3rem;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .img-text{
+        padding-top: 2rem;
+    }
+    #footer{
+        padding-top:3rem;
+    }
+    .Venue, .date-time{
+        margin: 0.5rem 0.5rem;
+    }
+    .image3{
+        max-width: 90%;
+        max-height: 90%;
+    }
+    
+    .Baarat{
+        width: 21rem;
+        height: 10rem;
+    }
+
+    .main-gate{
+        margin-top: 2rem;
+        width: 100%;
+    }
+    .navbar-brand{
+        font-family: 'Aclonica', sans-serif;
+        font-size: 1.3rem;
+    }   
+    .nav-link{
+        font-size: 1rem;
+    }
+    .Ceremony-name{
+        font-family: 'Indie Flower', cursive;
+        font-size: 2rem;
+    }
+}
+
+
+.accomodation-text{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+
+.image2{
+    max-width: 90%;
+    max-height: 90%;
+}
+
+.main-gate{
+    width: 100%;
+    max-height: 60%;
+}
