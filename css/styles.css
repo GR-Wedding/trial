@@ -70,7 +70,7 @@ hr{
 
 
 .our-story{
-    margin: auto;
+    margin: 0 auto;
     max-width: 90%;
     max-height: 90%;
 }
@@ -118,6 +118,11 @@ hr{
         font-family: 'Indie Flower', cursive;
         font-size: 3rem;
     }
+    .our-story{
+        margin: 0 auto;
+        max-width: 90%;
+        max-height: 90%;
+    }
 }
 
 @media only screen and (max-width:1000px) {
@@ -154,6 +159,11 @@ hr{
     .Ceremony-name{
         font-family: 'Indie Flower', cursive;
         font-size: 2rem;
+    }
+    .our-story{
+        margin: 0 auto;
+        width: 23rem;
+        height:35rem;
     }
 }
 
